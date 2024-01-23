@@ -8,3 +8,4 @@ output文件夹由于过大不上传github。其中包含镜像，请到以下�
 百度网盘：链接: https://pan.baidu.com/s/183IoyKze_W3Yx1SBRFxNnA?pwd=ehb7 提取码: ehb7
 
 注意，在传输工程文件时，打包压缩包时，使用Windows10自带的压缩工具可能会出现文件丢失（.Xil文件夹丢失）
+2024年1月24日发现，传输过程中可能有.Xil文件夹丢失。暂未测试工程是否还可以打开。
